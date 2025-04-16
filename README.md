@@ -45,7 +45,7 @@ This repository contains:
 ## 📫 How to Reach Me
 
 - LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
+- Email: penjor329@gmail.com
 - Twitter: @YourHandle (if applicable)
 
 ## 📚 Learning Resources
