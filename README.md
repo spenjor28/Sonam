@@ -58,6 +58,6 @@ Here are resources I recommend for cybersecurity beginners:
 
 ---
 
-"Security is a process, not a product." - Bruce Schneier
+"Security is a process, not a product." 
 
 
