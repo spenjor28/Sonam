@@ -3,7 +3,9 @@
 
 **Cybersecurity Trainee | IT Enthusiast | Continuous Learner**
 
-Welcome to my GitHub profile! I'm currently undergoing an intensive 3-month cybersecurity training program, building foundational skills in information security. This repository serves as my learning journey documentation and project showcase.
+Welcome to my GitHub profile! I'm currently undergoing an intensive 3-month 
+cybersecurity training program, building foundational skills in information security. 
+This repository serves as my learning journey documentation and project showcase.
 
 ## Cybersecurity Focus Areas
 
@@ -45,9 +47,8 @@ This repository contains:
 
 ##  How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: www.linkedin.com/in/sonam-penjor-067119360
 - Email: penjor329@gmail.com
-- Twitter: @YourHandle (if applicable)
 
 ##  Learning Resources
 
