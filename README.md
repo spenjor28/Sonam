@@ -1,11 +1,11 @@
 markdown
-# 👋 Hello, I'm Sonam Penjor 
+# Hello, I'm Sonam Penjor 
 
 **Cybersecurity Trainee | IT Enthusiast | Continuous Learner**
 
 Welcome to my GitHub profile! I'm currently undergoing an intensive 3-month cybersecurity training program, building foundational skills in information security. This repository serves as my learning journey documentation and project showcase.
 
-## 🔐 Cybersecurity Focus Areas
+## Cybersecurity Focus Areas
 
 - Network Security Fundamentals
 - Ethical Hacking Basics
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm currently undergoing an intensive 3-month cybe
 - Linux System Administration
 - Python for Security
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Currently Learning:**
 - Kali Linux tools (Nmap, Wireshark, Metasploit)
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm currently undergoing an intensive 3-month cybe
 - Programming: Python (Basic), Bash scripting
 - Tools: VirtualBox, Wireshark, Nessus
 
-## 📂 Repository Contents
+##  Repository Contents
 
 This repository contains:
 - Cybersecurity lab exercises
@@ -36,19 +36,19 @@ This repository contains:
 - Small security-related scripts
 - Learning resources compilation
 
-## 🌱 Current Projects
+##  Current Projects
 
 1. **Network Scanner Tool** - Basic Python script for network reconnaissance
 2. **Security Checklist** - Best practices documentation
 3. **CTF Writeups** - Capture The Flag challenge solutions
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
 - LinkedIn: [Your LinkedIn Profile]
 - Email: penjor329@gmail.com
 - Twitter: @YourHandle (if applicable)
 
-## 📚 Learning Resources
+##  Learning Resources
 
 Here are resources I recommend for cybersecurity beginners:
 - [TryHackMe](https://tryhackme.com/)
