@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm currently undergoing an intensive 3-month cybe
 - Security frameworks (MITRE ATT&CK, NIST CSF)
 - Basic penetration testing techniques
 - Security information and event management (SIEM)
+- Basics of Networking
 
 **Core Competencies:**
 - Operating Systems: Windows, Linux (Ubuntu)
