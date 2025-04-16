@@ -61,18 +61,3 @@ Here are resources I recommend for cybersecurity beginners:
 "Security is a process, not a product." - Bruce Schneier
 
 
-### How to implement this:
-1. Click on your README.md file in GitHub
-2. Click the pencil (edit) icon
-3. Paste this content
-4. Customize the sections with your actual information:
-   - Replace placeholders with your real contact details
-   - Add your actual projects when you create them
-   - Update skills as you progress in your training
-5. Click "Commit changes"
-
-Would you like me to:
-1. Add a cybersecurity-themed profile banner image?
-2. Include specific badges for your skills?
-3. Create a more technical cheatsheet section?
-4. Suggest beginner cybersecurity projects to add?
