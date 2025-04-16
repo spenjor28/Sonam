@@ -53,6 +53,7 @@ This repository contains:
 ##  Learning Resources
 
 Here are resources I recommend for cybersecurity beginners:
+-[Hack The Box](https://app.hackthebox.com/starting-point)
 - [TryHackMe](https://tryhackme.com/)
 - [OverTheWire Bandit](https://overthewire.org/wargames/bandit/)
 - [Cyber Aces](https://www.cyberaces.org/)
